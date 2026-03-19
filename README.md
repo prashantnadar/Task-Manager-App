@@ -37,9 +37,3 @@ It simulates a real-world productivity SaaS tool similar to Trello / Jira (front
 - Memoized selectors (performance optimized)
 - Reusable UI components
 - Persistent state layer (localStorage sync)
-
----
-
-## 📸 Screenshots
-
-> Add screenshots here (VERY IMPORTANT for recruiters)
