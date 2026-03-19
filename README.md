@@ -39,6 +39,21 @@ It simulates a real-world productivity SaaS tool similar to Trello / Jira (front
 - Persistent state layer (localStorage sync)
 
 
+## 📸 Screenshots
+
+### Dashboard
+
+![Dashboard](./screenshots/dashboard.png)
+
+### Create Task Modal
+
+![Create Task](./screenshots/create-task.png)
+
+### Edit Task Modal
+
+![Edit Task](./screenshots/edit-task.png)
+
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
