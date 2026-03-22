@@ -10,7 +10,7 @@ function Navbar() {
     >
       <div className="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
         {/* Logo */}
-        <h1 className="text-xl font-bold tracking-tight">Task Manager</h1>
+        <h1 className="text-xl font-bold tracking-tight">Task-Manager</h1>
         {/* Right Side */}
         <div className="flex items-center gap-4">
           {/* Nav Links (future scalable) */}
